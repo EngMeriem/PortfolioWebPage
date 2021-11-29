@@ -1,2 +1,2 @@
 # PortfolioWebPage
-technologies: HTML
+technologie: HTML
